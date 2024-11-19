@@ -6,4 +6,4 @@
 ![Ablagekonzept][ablagekonzept]
 
 
-[ablagekonzept]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/1b_Datenablage_Ablagekonzept/ablagekonzept.md
+[ablagekonzept]: /Aufgaben/1b_Datenablage_Ablagekonzept/Ablagekonzept.jpeg
