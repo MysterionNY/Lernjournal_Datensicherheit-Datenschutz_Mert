@@ -20,11 +20,11 @@ Die Intention hinter der Entwicklung, war es ein leistungsfähiges Tool für die
 
 ## Aufgaben
 ### Aufgabe 1b
-![Ablagekonzept][ablagekonzept]
+* [Ablagekonzept][ablagekonzept]
 ### Aufgabe 2a
-![Git Commands][gitCommands]
-![Branches][branches]
-![Links][links]
+* [Git Commands][gitCommands]
+* [Branches][branches]
+* [Links][links]
 
 [ablagekonzept]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/1b_Datenablage_Ablagekonzept/Ablagekonzept.jpeg
 
