@@ -14,19 +14,25 @@ Vorteile:
 
 ## Wie man mit Branches umgeht?
 * Zum erstellen eines neuen Branches:
+
 ```git branch <branch-name>```
 
 * Um zu einem Branch zu wechseln:
+
 ```git switch <branch-name>```
 
 * Einen Branch erstellen und direkt zu diesem wechseln:
+
 ```git switch -c <branch-name>```
 
 * Einen abgeschlossenen Branch mit der main zusammenfügen:
-```git checkout main
-git merge <branch-name>```
+
+```git checkout main```
+
+```git merge <branch-name>```
 
 * Einen Branch löschen:
+
 ```git branch -d <branch-name>```
 
 
