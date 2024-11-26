@@ -4,7 +4,6 @@
 ### Aufgabe 2a
 * [Git Commands][gitCommands]
 * [Branches][branches]
-* [Links][links]
 
 [ablagekonzept]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/1b_Datenablage_Ablagekonzept/ablagekonzept.md
 
