@@ -5,5 +5,4 @@
 
 ![Ablagekonzept][ablagekonzept]
 
-
 [ablagekonzept]: /Aufgaben/1b_Datenablage_Ablagekonzept/Ablagekonzept.jpeg

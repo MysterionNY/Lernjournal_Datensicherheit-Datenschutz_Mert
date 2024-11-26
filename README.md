@@ -15,7 +15,6 @@ Die Intention hinter der Entwicklung, war es ein leistungsfähiges Tool für die
 * Backups
     * Dadurch, dass alles protokolliert und gesichert wird mit einer history, wird es dem Benutzer ermöglicht, fälschliche Änderungen rückgängig zu machen oder alte funktionierende Versionen zurückzuholen
 
-
 ## Codereview
 * Signed von Eric L
 * 19.11.2024 15:36
@@ -26,16 +25,15 @@ ff253d7
 * SHA of signing-commit:
 ff253d7218bd80f7b90472875cd071b931aff145
 
-## Aufgaben
-### Aufgabe 1b
-* [Ablagekonzept][ablagekonzept]
-### Aufgabe 2a
-* [Git Commands][gitCommands]
-* [Branches][branches]
-* [Links][links]
+## Links
+* Mit dem Link, kann man alle meine Verlinkungen einsehen
+[Links][links]
 
-[ablagekonzept]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/1b_Datenablage_Ablagekonzept/ablagekonzept.md
+## Lernjournal
+### 19.11.2024
+* Datensicherung
+    * Uns wurde gezeigt, wie man seine Daten sichert und welche Optionen zu Verfügung stehen. Ebenso wurde uns gezeigt, wie sicher diese Möglichkeiten sind und worauf wir dabei achten sollten. Das übertragen von Daten von End-Gerät zu End-Gerät ist durch einen Cloud-Server vereinfacht.
+* Git
+    * Git ist eine Möglichkeit der Datensicherung oder wie oben bereits genannt: Ein Versionskontrollsystem. Wir können git mit dem Tool Github Desktop verwenden oder wie es uns beigebracht worden ist, mit Git CLI. Dazu wurde uns ein Beitrag gegeben, wie wir Git CLI aufsetzen und dieses dann auch anwenden. Es gibt diverse commands, welche wir verwenden können, um z.B. ein Projekt zu klonen, die aktuellste Version zu pullen, unsere Änderungen hochzuladen etc.
 
-[branches]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/2a_Ablage-Versionswaltung/Branches.md
-[gitCommands]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/2a_Ablage-Versionswaltung/Git_Commands.md
 [links]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/2a_Ablage-Versionswaltung/Links.md
