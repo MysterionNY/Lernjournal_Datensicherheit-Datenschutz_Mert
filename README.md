@@ -1,9 +1,24 @@
 # Lernjournal_M231_Mert_Ap24a
 
 
-Inhaltsverzeichnis
+## Inhaltsverzeichnis
+- [Inhaltsverzeichnis](#inhaltsverzeichnis)
+- [Was ist Git?](#was-ist-git)
+- [Wer hat Git erfunden?](#wer-hat-git-erfunden)
+- [Was kann man mit Git machen?](#was-kann-man-mit-git-machen)
+- [Codereview](#codereview)
+- [Links](#links)
+  - [Aufgaben](#aufgaben)
+    - [Aufgabe 1b](#aufgabe-1b)
+    - [Aufgabe 2a](#aufgabe-2a)
+    - [Aufgabe 3a](#aufgabe-3a)
+    - [Aufgabe 4a](#aufgabe-4a)
+  - [Git-Referenzen](#git-referenzen)
+- [Lernjournal](#lernjournal)
+  - [26.11.2024](#26112024)
+  - [19.11.2024](#19112024)
 
-[TOC]
+
 
 ## Was ist Git?
 Git ist ein verteiltes Versionskontrollsystem. Es ermöglicht unabhängig vom End-Gerät, permanenenten Zugriff auf die aktuellste Version eines Projektes zu haben und diese frei mit anderen zu teilen.
@@ -31,8 +46,19 @@ ff253d7
 ff253d7218bd80f7b90472875cd071b931aff145
 
 ## Links
-* Mit dem Link, kann man alle meine Verlinkungen einsehen
-[Links][links]
+### Aufgaben
+#### Aufgabe 1b
+* [Ablagekonzept][ablagekonzept]
+#### Aufgabe 2a
+* [Git Commands][gitCommands]
+* [Branches][branches]
+#### Aufgabe 3a
+* [Datenschutz][datenschutz]
+#### Aufgabe 4a
+* [Backup][backup]
+#### Git-Referenzen
+* [Einführung Git][einfuehrungGit]
+* [Leistungsbeurteilung][leistungsbeurteilung]
 
 ## Lernjournal
 ### 26.11.2024
@@ -44,4 +70,16 @@ Was ich dadurch gelernt habe sind sehr viele Sachen über Datenschutz. Dadurch d
 Mit der Datensicherung wurde uns gezeigt, wie man seine Daten sichert und welche Optionen zu Verfügung stehen. Ebenso wurde uns gezeigt, wie sicher diese Möglichkeiten sind und worauf wir dabei achten sollten. Das übertragen von Daten von End-Gerät zu End-Gerät ist durch einen Cloud-Server vereinfacht.
 Git ist eine Möglichkeit der Datensicherung oder wie oben bereits genannt: Ein Versionskontrollsystem. Wir können git mit dem Tool Github Desktop verwenden oder wie es uns beigebracht worden ist, mit Git CLI. Dazu wurde uns ein Beitrag gegeben, wie wir Git CLI aufsetzen und dieses dann auch anwenden. Es gibt diverse commands, welche wir verwenden können, um z.B. ein Projekt zu klonen, die aktuellste Version zu pullen, unsere Änderungen hochzuladen etc.
 
-[links]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/2a_Ablage-Versionswaltung/links.md
+[ablagekonzept]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/1b_Datenablage_Ablagekonzept/ablagekonzept.md
+
+[branches]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/2a_Ablage-Versionswaltung/branches.md
+[gitCommands]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/2a_Ablage-Versionswaltung/git_commands.md
+
+[datenschutz]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/3a_Datenschutzrecht/datenschutz.md
+
+[backup]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/4a_Backup/backup.md
+
+
+[einfuehrungGit]: https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/10_Git?classId=f64450a8-6736-4a4c-86f4-37d9cb65ace6&assignmentId=dd1f3ba3-11e3-40f7-8830-49305253f7a8&submissionId=b4109f0e-5114-6016-6d66-99eead08384f
+
+[leistungsbeurteilung]: https://gitlab.com/ch-tbz-it/Stud/m231/-/blob/master/99_Leistungsbeurteilung/README.md?classId=f64450a8-6736-4a4c-86f4-37d9cb65ace6&assignmentId=d4fd7083-08b7-4ba9-8e20-d3229d1bff42&submissionId=6a176d6d-e7db-9174-f190-4e1084b21fdc#lb3-pers%C3%B6nliches-dossier
