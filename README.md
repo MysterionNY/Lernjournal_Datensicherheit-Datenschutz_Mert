@@ -1,6 +1,5 @@
 # Lernjournal_M231_Mert_Ap24a
 
-
 ## Inhaltsverzeichnis
 - [Inhaltsverzeichnis](#inhaltsverzeichnis)
 - [Was ist Git?](#was-ist-git)
@@ -13,12 +12,10 @@
     - [Aufgabe 2a](#aufgabe-2a)
     - [Aufgabe 3a](#aufgabe-3a)
     - [Aufgabe 4a](#aufgabe-4a)
-    - [Git-Referenzen](#git-referenzen)
+  - [Git-Referenzen](#git-referenzen)
 - [Lernjournal](#lernjournal)
   - [26.11.2024](#26112024)
   - [19.11.2024](#19112024)
-
-
 
 ## Was ist Git?
 Git ist ein verteiltes Versionskontrollsystem. Es ermöglicht unabhängig vom End-Gerät, permanenenten Zugriff auf die aktuellste Version eines Projektes zu haben und diese frei mit anderen zu teilen.
@@ -56,7 +53,7 @@ ff253d7218bd80f7b90472875cd071b931aff145
 * [Datenschutz][datenschutz]
 #### Aufgabe 4a
 * [Backup][backup]
-#### Git-Referenzen
+### Git-Referenzen
 * [Einführung Git][einfuehrungGit]
 * [Leistungsbeurteilung][leistungsbeurteilung]
 
