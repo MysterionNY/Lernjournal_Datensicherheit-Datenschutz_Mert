@@ -30,10 +30,12 @@ ff253d7218bd80f7b90472875cd071b931aff145
 [Links][links]
 
 ## Lernjournal
+### 26.11.2024
+Wir haben ein Video bezüglich Datenschutz aus dem Jahre 2012 geschaut. Daraufhin haben wir einen Auftrag bekommen an den Fragen über das Gesetz, die Verordnung und EDÖB zu arbeiten. Wir haben einige Materialien bekommen, welche uns dabei helfen sollten diese Fragen zu beantworten. Ausserdem haben wir einen Auftrag bekommen, dass wir ein 26 Minütigen Podcast zum Thema EDÖP hören sollen.
+
+Was ich dadurch gelernt habe sind sehr viele Sachen über Datenschutz. Dadurch dass ich mein ganzes Leben in Deutschland gelebt habe, waren mir diese ganzen Sachen gar nicht bewusst. Das Video hat mir aufjedenfall eine Erkenntnis gegeben, wie die Leute damals in der Schweiz zu diesen Themen standen. Durch die Beantwortung der Fragen, habe ich einen Einblick bekommen, wie die Schweiz ihre Gesetze bezüglich des Datenschutzes regelt. 
 ### 19.11.2024
-* Datensicherung
-    * Uns wurde gezeigt, wie man seine Daten sichert und welche Optionen zu Verfügung stehen. Ebenso wurde uns gezeigt, wie sicher diese Möglichkeiten sind und worauf wir dabei achten sollten. Das übertragen von Daten von End-Gerät zu End-Gerät ist durch einen Cloud-Server vereinfacht.
-* Git
-    * Git ist eine Möglichkeit der Datensicherung oder wie oben bereits genannt: Ein Versionskontrollsystem. Wir können git mit dem Tool Github Desktop verwenden oder wie es uns beigebracht worden ist, mit Git CLI. Dazu wurde uns ein Beitrag gegeben, wie wir Git CLI aufsetzen und dieses dann auch anwenden. Es gibt diverse commands, welche wir verwenden können, um z.B. ein Projekt zu klonen, die aktuellste Version zu pullen, unsere Änderungen hochzuladen etc.
+Mit der Datensicherung wurde uns gezeigt, wie man seine Daten sichert und welche Optionen zu Verfügung stehen. Ebenso wurde uns gezeigt, wie sicher diese Möglichkeiten sind und worauf wir dabei achten sollten. Das übertragen von Daten von End-Gerät zu End-Gerät ist durch einen Cloud-Server vereinfacht.
+Git ist eine Möglichkeit der Datensicherung oder wie oben bereits genannt: Ein Versionskontrollsystem. Wir können git mit dem Tool Github Desktop verwenden oder wie es uns beigebracht worden ist, mit Git CLI. Dazu wurde uns ein Beitrag gegeben, wie wir Git CLI aufsetzen und dieses dann auch anwenden. Es gibt diverse commands, welche wir verwenden können, um z.B. ein Projekt zu klonen, die aktuellste Version zu pullen, unsere Änderungen hochzuladen etc.
 
 [links]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/2a_Ablage-Versionswaltung/links.md
