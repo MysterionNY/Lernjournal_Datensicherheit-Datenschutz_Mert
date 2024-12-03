@@ -6,6 +6,8 @@
 * [Branches][branches]
 ### Aufgabe 3a
 * [Datenschutz][datenschutz]
+### Aufgabe 4a
+* [Backup][backup]
 ## Git-Referenzen
 * [Einführung Git][einfuehrungGit]
 * [Leistungsbeurteilung][leistungsbeurteilung]
@@ -16,6 +18,8 @@
 [gitCommands]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/2a_Ablage-Versionswaltung/git_commands.md
 
 [datenschutz]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/3a_Datenschutzrecht/datenschutz.md
+
+[backup]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/4a_Backup/backup.md
 
 
 [einfuehrungGit]: https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/10_Git?classId=f64450a8-6736-4a4c-86f4-37d9cb65ace6&assignmentId=dd1f3ba3-11e3-40f7-8830-49305253f7a8&submissionId=b4109f0e-5114-6016-6d66-99eead08384f
