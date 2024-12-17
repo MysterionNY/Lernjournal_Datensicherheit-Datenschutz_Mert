@@ -15,6 +15,9 @@
     - [Aufgabe 4b](#aufgabe-4b)
   - [Git-Referenzen](#git-referenzen)
 - [Lernjournal](#lernjournal)
+  - [17.12.2024](#17122024)
+  - [10.12.2024](#10122024)
+  - [03.12.2024](#03122024)
   - [26.11.2024](#26112024)
   - [19.11.2024](#19112024)
 
@@ -61,8 +64,19 @@ ff253d7218bd80f7b90472875cd071b931aff145
 * [Leistungsbeurteilung][leistungsbeurteilung]
 
 ## Lernjournal
+### 17.12.2024
+Heute gab es keine Inputs, daher habe ich lediglich die Aufgaben erledigt zum Thema Backupkonzept. Dort habe ich ein Konzept erstellt, welche Daten in gewissen Services (Wie Whatsapp) vorhanden sind, welche Backup methoden sie haben und wie häufig man diese backuppen sollte. Für die Aufgabe habe ich dann diverse Services aufgeschrieben.
+
+### 10.12.2024
+Heute haben wir einen Test über Datenschutz und Datensicherheit geschrieben.
+
+Bezüglich der Sachen die ich heute gelernt habe, sind diverse Begriffe die wir in Gruppen erarbeitet haben. Darunter gehörten Beispielsweise Block-Level vs. File-Level Backup. Ebenso haben wir dann noch Cloud und Lokale Backups besprochen und dessen unterschied, wieso richtige Backups wichtig sind.
+
+### 03.12.2024
+Zu dem was ich gelernt habe. Ich habe einen Text zu einem Leseauftrag gelesen, welche Backups im Detail erklärt. Dies habe ich dann in einem Text zusammengefasst. Im groben geht es um nichts anderes als wie wichtig die Datensicherheit ist und das man einen Wert darauf legen sollte, seine Daten zu backuppen. Unter anderem wird auch erläutert wie dies funktioniert.
+
 ### 26.11.2024
-Wir haben ein Video bezüglich Datenschutz aus dem Jahre 2012 geschaut. Daraufhin haben wir einen Auftrag bekommen an den Fragen über das Gesetz, die Verordnung und EDÖB zu arbeiten. Wir haben einige Materialien bekommen, welche uns dabei helfen sollten diese Fragen zu beantworten. Ausserdem haben wir einen Auftrag erhalten, dass wir ein 26 Minütigen Podcast zum Thema EDÖP hören sollen.
+Wir haben ein Video bezüglich Datenschutz aus dem Jahre 2012 geschaut. Daraufhin haben lwir einen Auftrag bekommen an den Fragen über das Gesetz, die Verordnung und EDÖB zu arbeiten. Wir haben einige Materialien bekommen, welche uns dabei helfen sollten diese Fragen zu beantworten. Ausserdem haben wir einen Auftrag erhalten, dass wir ein 26 Minütigen Podcast zum Thema EDÖP hören sollen.
 
 Was ich dadurch gelernt habe sind sehr viele Sachen über Datenschutz. Dadurch dass ich mein ganzes Leben in Deutschland gelebt habe, waren mir diese ganzen Sachen gar nicht bewusst. Das Video hat mir aufjedenfall eine Erkenntnis gegeben, wie die Leute damals in der Schweiz zu diesen Themen standen. Durch die Beantwortung der Fragen, habe ich einen Einblick bekommen, wie die Schweiz ihre Gesetze bezüglich des Datenschutzes regelt. 
 
