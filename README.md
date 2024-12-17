@@ -12,6 +12,7 @@
     - [Aufgabe 2a](#aufgabe-2a)
     - [Aufgabe 3a](#aufgabe-3a)
     - [Aufgabe 4a](#aufgabe-4a)
+    - [Aufgabe 4b](#aufgabe-4b)
   - [Git-Referenzen](#git-referenzen)
 - [Lernjournal](#lernjournal)
   - [26.11.2024](#26112024)
@@ -53,13 +54,15 @@ ff253d7218bd80f7b90472875cd071b931aff145
 * [Datenschutz][datenschutz]
 #### Aufgabe 4a
 * [Backup][backup]
+#### Aufgabe 4b
+* [Backupkonzept][backupkonzept]
 ### Git-Referenzen
 * [Einführung Git][einfuehrungGit]
 * [Leistungsbeurteilung][leistungsbeurteilung]
 
 ## Lernjournal
 ### 26.11.2024
-Wir haben ein Video bezüglich Datenschutz aus dem Jahre 2012 geschaut. Daraufhin haben wir einen Auftrag bekommen an den Fragen über das Gesetz, die Verordnung und EDÖB zu arbeiten. Wir haben einige Materialien bekommen, welche uns dabei helfen sollten diese Fragen zu beantworten. Ausserdem haben wir einen Auftrag bekommen, dass wir ein 26 Minütigen Podcast zum Thema EDÖP hören sollen.
+Wir haben ein Video bezüglich Datenschutz aus dem Jahre 2012 geschaut. Daraufhin haben wir einen Auftrag bekommen an den Fragen über das Gesetz, die Verordnung und EDÖB zu arbeiten. Wir haben einige Materialien bekommen, welche uns dabei helfen sollten diese Fragen zu beantworten. Ausserdem haben wir einen Auftrag erhalten, dass wir ein 26 Minütigen Podcast zum Thema EDÖP hören sollen.
 
 Was ich dadurch gelernt habe sind sehr viele Sachen über Datenschutz. Dadurch dass ich mein ganzes Leben in Deutschland gelebt habe, waren mir diese ganzen Sachen gar nicht bewusst. Das Video hat mir aufjedenfall eine Erkenntnis gegeben, wie die Leute damals in der Schweiz zu diesen Themen standen. Durch die Beantwortung der Fragen, habe ich einen Einblick bekommen, wie die Schweiz ihre Gesetze bezüglich des Datenschutzes regelt. 
 
@@ -80,3 +83,5 @@ Git ist eine Möglichkeit der Datensicherung oder wie oben bereits genannt: Ein 
 [einfuehrungGit]: https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/10_Git?classId=f64450a8-6736-4a4c-86f4-37d9cb65ace6&assignmentId=dd1f3ba3-11e3-40f7-8830-49305253f7a8&submissionId=b4109f0e-5114-6016-6d66-99eead08384f
 
 [leistungsbeurteilung]: https://gitlab.com/ch-tbz-it/Stud/m231/-/blob/master/99_Leistungsbeurteilung/README.md?classId=f64450a8-6736-4a4c-86f4-37d9cb65ace6&assignmentId=d4fd7083-08b7-4ba9-8e20-d3229d1bff42&submissionId=6a176d6d-e7db-9174-f190-4e1084b21fdc#lb3-pers%C3%B6nliches-dossier
+
+[backupkonzept]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/4b_Backupkonzept/backupkonzept.md
