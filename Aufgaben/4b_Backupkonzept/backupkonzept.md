@@ -7,7 +7,7 @@ Unter anderem erläutere ich auch, wann welche Dateien am besten gesichert werde
 
 ## Konzept
 | Service        | Funktion                              | Betroffene Daten                | Backup                                     | Wiederherstellung                                      | Häufigkeit |
-|----------------|---------------------------------------|----------------------------------|--------------------------------------------|--------------------------------------------------------|
+|----------------|---------------------------------------|----------------------------------|--------------------------------------------|--------------------------------------------------------|-----|
 | WhatsApp       | Nachrichtenversand, mit Text, Bilder und Videos | Bilder, Text und Videos          | Daten werden, sofern eingestellt, lokal gebackupt oder in der Cloud gespeichert (z. B. Google Drive) | Bei Neuinstallation der Applikation, können die Daten zurückgeholt werden | Automatisch, in der Regel 1x die Woche |
 | Google Drive   | Cloud-Speicher für Dateien und Dokumente | Dokumente, Bilder, Videos        | Automatische Synchronisierung und Sicherung in der Cloud | Zugriff über jeden angemeldeten Google-Account         | 1x Woche |
 | iCloud         | Cloud-Speicher und Synchronisierung   | Fotos, Kontakte, Kalender, Notizen | Automatische Synchronisierung und Sicherung in der iCloud | Über Apple-ID und Wiederherstellungstool verfügbar     | 1x Woche |
