@@ -13,6 +13,7 @@
     - [Aufgabe 3a](#aufgabe-3a)
     - [Aufgabe 4a](#aufgabe-4a)
     - [Aufgabe 4b](#aufgabe-4b)
+    - [Aufgabe 4d](#aufgabe-4d)
     - [Aufgabe 6a](#aufgabe-6a)
     - [Aufgabe 6b](#aufgabe-6b)
   - [Git-Referenzen](#git-referenzen)
@@ -62,6 +63,8 @@ ff253d7218bd80f7b90472875cd071b931aff145
 * [Backup][backup]
 #### Aufgabe 4b
 * [Backupkonzept][backupkonzept]
+#### Aufgabe 4d
+* [Backupkonzept Erstellen][backupkonzeptErstellen]
 #### Aufgabe 6a
 * [Autorisierung Authentifizierung Autorisierung][aaa]
 #### Aufgabe 6b
@@ -109,6 +112,8 @@ Git ist eine Möglichkeit der Datensicherung oder wie oben bereits genannt: Ein 
 [leistungsbeurteilung]: https://gitlab.com/ch-tbz-it/Stud/m231/-/blob/master/99_Leistungsbeurteilung/README.md?classId=f64450a8-6736-4a4c-86f4-37d9cb65ace6&assignmentId=d4fd7083-08b7-4ba9-8e20-d3229d1bff42&submissionId=6a176d6d-e7db-9174-f190-4e1084b21fdc#lb3-pers%C3%B6nliches-dossier
 
 [backupkonzept]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/4b_Backupkonzept/backupkonzept.md
+
+[backupkonzeptErstellen]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/4d_Backup-Erstellen/backup-Erstellen.md
 
 [aaa]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6a_AAA/aaa.md
 
