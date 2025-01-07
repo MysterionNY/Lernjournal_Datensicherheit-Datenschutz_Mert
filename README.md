@@ -112,4 +112,4 @@ Git ist eine Möglichkeit der Datensicherung oder wie oben bereits genannt: Ein 
 
 [aaa]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6a_AAA/aaa.md
 
-[mfa]: ttps://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6b_Multifaktorenauthentifizierung/mfa.md
+[mfa]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6b_Multifaktorauthentifizierung/mfa.md
