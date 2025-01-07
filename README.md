@@ -14,7 +14,7 @@
     - [Aufgabe 4a](#aufgabe-4a)
     - [Aufgabe 4b](#aufgabe-4b)
     - [Aufgabe 6a](#aufgabe-6a)
-  - [Aufgabe 6b](#aufgabe-6b)
+    - [Aufgabe 6b](#aufgabe-6b)
   - [Git-Referenzen](#git-referenzen)
 - [Lernjournal](#lernjournal)
   - [07.01.2025](#07012025)
