@@ -14,6 +14,7 @@
     - [Aufgabe 4a](#aufgabe-4a)
     - [Aufgabe 4b](#aufgabe-4b)
     - [Aufgabe 6a](#aufgabe-6a)
+  - [Aufgabe 6b](#aufgabe-6b)
   - [Git-Referenzen](#git-referenzen)
 - [Lernjournal](#lernjournal)
   - [07.01.2025](#07012025)
@@ -62,14 +63,16 @@ ff253d7218bd80f7b90472875cd071b931aff145
 #### Aufgabe 4b
 * [Backupkonzept][backupkonzept]
 #### Aufgabe 6a
-* [Autorisierung Authentifizierung Autorisierung][AAA]
+* [Autorisierung Authentifizierung Autorisierung][aaa]
+### Aufgabe 6b
+* [Multifaktorenauthentifizierung][mfa]
 ### Git-Referenzen
 * [Einführung Git][einfuehrungGit]
 * [Leistungsbeurteilung][leistungsbeurteilung]
 
 ## Lernjournal
 ### 07.01.2025
-Es gab einen kurzen Input zum Thema AAA. Ich habe meine Aufgaben gelöst und mich mehr zum Thema AAA informiert. Dessen Bedeutung habe ich jetzt kennengelernt sowie diverse Anwendungsbereiche. Da diese relevant sein werden für die Prüfung, werde ich mir noch ein paar weitere Beiträge zu AAA durchlesen. Authentisierung, Authentifizierung und Autorisierung
+Es gab einen kurzen Input zum Thema AAA. Ich habe meine Aufgaben gelöst und mich mehr zum Thema AAA informiert. Dessen Bedeutung habe ich jetzt kennengelernt sowie diverse Anwendungsbereiche. Da diese relevant sein werden für die Prüfung, werde ich mir noch ein paar weitere Beiträge zu AAA durchlesen. Authentisierung, Authentifizierung und Autorisierung. Ebenso habe ich mehr zum Thema Multifaktorenauthentifizierung gelernt. Welche Faktoren es gibt und wie sie eingesetzt werden.
 
 ### 17.12.2024
 Heute gab es keine Inputs, daher habe ich lediglich die Aufgaben erledigt zum Thema Backupkonzept. Dort habe ich ein Konzept erstellt, welche Daten in gewissen Services (Wie Whatsapp) vorhanden sind, welche Backup methoden sie haben und wie häufig man diese backuppen sollte. Für die Aufgabe habe ich dann diverse Services aufgeschrieben.
@@ -108,3 +111,5 @@ Git ist eine Möglichkeit der Datensicherung oder wie oben bereits genannt: Ein 
 [backupkonzept]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/4b_Backupkonzept/backupkonzept.md
 
 [aaa]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6a_AAA/aaa.md
+
+[mfa]: ttps://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6b_Multifaktorenauthentifizierung/mfa.md
