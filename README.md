@@ -13,8 +13,10 @@
     - [Aufgabe 3a](#aufgabe-3a)
     - [Aufgabe 4a](#aufgabe-4a)
     - [Aufgabe 4b](#aufgabe-4b)
+    - [Aufgabe 6a](#aufgabe-6a)
   - [Git-Referenzen](#git-referenzen)
 - [Lernjournal](#lernjournal)
+  - [07.01.2025](#07012025)
   - [17.12.2024](#17122024)
   - [10.12.2024](#10122024)
   - [03.12.2024](#03122024)
@@ -59,11 +61,16 @@ ff253d7218bd80f7b90472875cd071b931aff145
 * [Backup][backup]
 #### Aufgabe 4b
 * [Backupkonzept][backupkonzept]
+#### Aufgabe 6a
+* [Autorisierung Authentifizierung Autorisierung][AAA]
 ### Git-Referenzen
 * [Einführung Git][einfuehrungGit]
 * [Leistungsbeurteilung][leistungsbeurteilung]
 
 ## Lernjournal
+### 07.01.2025
+Es gab einen kurzen Input zum Thema AAA. Ich habe meine Aufgaben gelöst und mich mehr zum Thema AAA informiert. Dessen Bedeutung habe ich jetzt kennengelernt sowie diverse Anwendungsbereiche. Da diese relevant sein werden für die Prüfung, werde ich mir noch ein paar weitere Beiträge zu AAA durchlesen. Authentisierung, Authentifizierung und Autorisierung
+
 ### 17.12.2024
 Heute gab es keine Inputs, daher habe ich lediglich die Aufgaben erledigt zum Thema Backupkonzept. Dort habe ich ein Konzept erstellt, welche Daten in gewissen Services (Wie Whatsapp) vorhanden sind, welche Backup methoden sie haben und wie häufig man diese backuppen sollte. Für die Aufgabe habe ich dann diverse Services aufgeschrieben.
 
@@ -99,3 +106,5 @@ Git ist eine Möglichkeit der Datensicherung oder wie oben bereits genannt: Ein 
 [leistungsbeurteilung]: https://gitlab.com/ch-tbz-it/Stud/m231/-/blob/master/99_Leistungsbeurteilung/README.md?classId=f64450a8-6736-4a4c-86f4-37d9cb65ace6&assignmentId=d4fd7083-08b7-4ba9-8e20-d3229d1bff42&submissionId=6a176d6d-e7db-9174-f190-4e1084b21fdc#lb3-pers%C3%B6nliches-dossier
 
 [backupkonzept]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/4b_Backupkonzept/backupkonzept.md
+
+[aaa]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6a_AAA/aaa.md
