@@ -64,7 +64,7 @@ ff253d7218bd80f7b90472875cd071b931aff145
 * [Backupkonzept][backupkonzept]
 #### Aufgabe 6a
 * [Autorisierung Authentifizierung Autorisierung][aaa]
-### Aufgabe 6b
+#### Aufgabe 6b
 * [Multifaktorenauthentifizierung][mfa]
 ### Git-Referenzen
 * [Einführung Git][einfuehrungGit]
