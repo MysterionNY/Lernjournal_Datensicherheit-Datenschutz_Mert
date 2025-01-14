@@ -17,6 +17,7 @@
     - [Aufgabe 6a](#aufgabe-6a)
     - [Aufgabe 6b](#aufgabe-6b)
     - [Aufgabe 6c](#aufgabe-6c)
+    - [Aufgabe 7a](#aufgabe-7a)
   - [Git-Referenzen](#git-referenzen)
 - [Lernjournal](#lernjournal)
   - [14.01.2025](#14012025)
@@ -73,6 +74,8 @@ ff253d7218bd80f7b90472875cd071b931aff145
 * [Multifaktorenauthentifizierung][mfa]
 #### Aufgabe 6c
 * [Passwort Manager][pma]
+#### Aufgabe 7a
+* [Anmeldeverfahren ohne Passwörter][aop]
 ### Git-Referenzen
 * [Einführung Git][einfuehrungGit]
 * [Leistungsbeurteilung][leistungsbeurteilung]
@@ -127,3 +130,5 @@ Git ist eine Möglichkeit der Datensicherung oder wie oben bereits genannt: Ein 
 [mfa]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6b_Multifaktorauthentifizierung/mfa.md
 
 [pma]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6c_PasswortManager/pma.md
+
+[aop]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/7a_Anmeldeverfahren/aop.md
