@@ -16,8 +16,10 @@
     - [Aufgabe 4d](#aufgabe-4d)
     - [Aufgabe 6a](#aufgabe-6a)
     - [Aufgabe 6b](#aufgabe-6b)
+    - [Aufgabe 6c](#aufgabe-6c)
   - [Git-Referenzen](#git-referenzen)
 - [Lernjournal](#lernjournal)
+  - [14.01.2025](#14012025)
   - [07.01.2025](#07012025)
   - [17.12.2024](#17122024)
   - [10.12.2024](#10122024)
@@ -69,11 +71,16 @@ ff253d7218bd80f7b90472875cd071b931aff145
 * [Autorisierung Authentifizierung Autorisierung][aaa]
 #### Aufgabe 6b
 * [Multifaktorenauthentifizierung][mfa]
+#### Aufgabe 6c
+* [Passwort Manager][pma]
 ### Git-Referenzen
 * [Einführung Git][einfuehrungGit]
 * [Leistungsbeurteilung][leistungsbeurteilung]
 
 ## Lernjournal
+### 14.01.2025
+Im heutigen Unterricht haben wir uns die Kryptografie angeschaut. Methoden wie man einen Text verschlüsseln kann. Da ich mit den Methoden bereits vertraut war, gibt es nicht wirklich viel dass ich hier dokumentieren kann. Ebenso habe ich mir eine Audio zum Anmeldeverfahren ohne Passwörter angehört und dazu Fragen beantwortet. Ebenfalls Sachen mit den ich recht vertraut war.
+ 
 ### 07.01.2025
 Es gab einen kurzen Input zum Thema AAA. Ich habe meine Aufgaben gelöst und mich mehr zum Thema AAA informiert. Dessen Bedeutung habe ich jetzt kennengelernt sowie diverse Anwendungsbereiche. Da diese relevant sein werden für die Prüfung, werde ich mir noch ein paar weitere Beiträge zu AAA durchlesen. Authentisierung, Authentifizierung und Autorisierung. Ebenso habe ich mehr zum Thema Multifaktorenauthentifizierung gelernt. Welche Faktoren es gibt und wie sie eingesetzt werden.
 
@@ -118,3 +125,5 @@ Git ist eine Möglichkeit der Datensicherung oder wie oben bereits genannt: Ein 
 [aaa]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6a_AAA/aaa.md
 
 [mfa]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6b_Multifaktorauthentifizierung/mfa.md
+
+[pma]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6c_PasswortManager/pma.md
