@@ -18,8 +18,13 @@
     - [Aufgabe 6b](#aufgabe-6b)
     - [Aufgabe 6c](#aufgabe-6c)
     - [Aufgabe 7a](#aufgabe-7a)
+    - [Aufgabe 8a](#aufgabe-8a)
+    - [Aufgabe 8b](#aufgabe-8b)
+    - [Aufgabe 9](#aufgabe-9)
   - [Git-Referenzen](#git-referenzen)
 - [Lernjournal](#lernjournal)
+  - [28.01.2025](#28012025)
+  - [21.01.2025](#21012025)
   - [14.01.2025](#14012025)
   - [07.01.2025](#07012025)
   - [17.12.2024](#17122024)
@@ -76,11 +81,23 @@ ff253d7218bd80f7b90472875cd071b931aff145
 * [Passwort Manager][pma]
 #### Aufgabe 7a
 * [Anmeldeverfahren ohne Passwörter][aop]
+#### Aufgabe 8a
+* [Problematik von Datenlöschung][pvd]
+#### Aufgabe 8b
+* [Impressum, Disclaimer, AGB][ida]
+#### Aufgabe 9
+* [Lizenzmodelle][lizenz]
 ### Git-Referenzen
 * [Einführung Git][einfuehrungGit]
 * [Leistungsbeurteilung][leistungsbeurteilung]
 
 ## Lernjournal
+### 28.01.2025
+Heute war der Letzte Tag des Moduls. Dort haben wir uns Letztendlich noch etwas zum Thema Lizenzmodelle angeschaut und haben das Modul abgeschlossen.
+
+### 21.01.2025
+Wir haben einen Test geschrieben, die LB2. Daraufhin haben wir weitere Aufgaben bekommen, welche ich dann gelöst habe. 
+
 ### 14.01.2025
 Im heutigen Unterricht haben wir uns die Kryptografie angeschaut. Methoden wie man einen Text verschlüsseln kann. Da ich mit den Methoden bereits vertraut war, gibt es nicht wirklich viel dass ich hier dokumentieren kann. Ebenso habe ich mir eine Audio zum Anmeldeverfahren ohne Passwörter angehört und dazu Fragen beantwortet. Ebenfalls Sachen mit den ich recht vertraut war.
  
@@ -132,3 +149,9 @@ Git ist eine Möglichkeit der Datensicherung oder wie oben bereits genannt: Ein 
 [pma]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/6c_PasswortManager/pma.md
 
 [aop]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/7a_Anmeldeverfahren/aop.md
+
+[pvd]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/8a_Problematik_Von_Datenlöschung/pvd.
+
+[ida]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/8b_Impressum_Disclaimer_AGB/ida.md
+
+[lizenz]: https://github.com/MysterionNY/Lernjournal_Datensicherheit-Datenschutz_Mert/blob/main/Aufgaben/9_Lizenzmodelle/lizenz.md
